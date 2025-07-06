@@ -27,9 +27,13 @@ This project presents a detailed analysis of the 2017 New York City Yellow Taxi 
 
 ## Project Structure
 ├── data/ # Raw and cleaned data
+
 ├── notebooks/ # Jupyter notebooks for EDA and modeling
+
 ├── src/ # Python scripts
+
 ├── reports/ # Generated plots and report content
+
 └── README.md # Project documentation
 
 
